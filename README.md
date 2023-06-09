@@ -3,7 +3,7 @@
 <br>
 <br>
 
-#### Projeto utiliza: <br> <br>
+#### Projeto utiliza:  <br> <br>
 >  useReducer <br>
 useState <br>
 uuid
